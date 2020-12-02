@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\OOP\21.OopEncapsulationUsingPropertiesGetSet\obj\Debug\netcoreapp3.1\21.OopEncapsulationUsingPropertiesGetSet.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\OOP\21.OopEncapsulationUsingPropertiesGetSet\obj\Debug\netcoreapp3.1\21.OopEncapsulationUsingPropertiesGetSet.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\OOP\21.OopEncapsulationUsingPropertiesGetSet\obj\Debug\netcoreapp3.1\21.OopEncapsulationUsingPropertiesGetSet.AssemblyInfo.cs
+C:\Users\Bla\source\repos\OOP\21.OopEncapsulationUsingPropertiesGetSet\obj\Debug\netcoreapp3.1\21.OopEncapsulationUsingPropertiesGetSet.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\OOP\21.OopEncapsulationUsingPropertiesGetSet\bin\Debug\netcoreapp3.1\21.OopEncapsulationUsingPropertiesGetSet.exe
+C:\Users\Bla\source\repos\OOP\21.OopEncapsulationUsingPropertiesGetSet\bin\Debug\netcoreapp3.1\21.OopEncapsulationUsingPropertiesGetSet.deps.json
+C:\Users\Bla\source\repos\OOP\21.OopEncapsulationUsingPropertiesGetSet\bin\Debug\netcoreapp3.1\21.OopEncapsulationUsingPropertiesGetSet.runtimeconfig.json
+C:\Users\Bla\source\repos\OOP\21.OopEncapsulationUsingPropertiesGetSet\bin\Debug\netcoreapp3.1\21.OopEncapsulationUsingPropertiesGetSet.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\OOP\21.OopEncapsulationUsingPropertiesGetSet\bin\Debug\netcoreapp3.1\21.OopEncapsulationUsingPropertiesGetSet.dll
+C:\Users\Bla\source\repos\OOP\21.OopEncapsulationUsingPropertiesGetSet\bin\Debug\netcoreapp3.1\21.OopEncapsulationUsingPropertiesGetSet.pdb
+C:\Users\Bla\source\repos\OOP\21.OopEncapsulationUsingPropertiesGetSet\obj\Debug\netcoreapp3.1\21.OopEncapsulationUsingPropertiesGetSet.dll
+C:\Users\Bla\source\repos\OOP\21.OopEncapsulationUsingPropertiesGetSet\obj\Debug\netcoreapp3.1\21.OopEncapsulationUsingPropertiesGetSet.pdb
+C:\Users\Bla\source\repos\OOP\21.OopEncapsulationUsingPropertiesGetSet\obj\Debug\netcoreapp3.1\21.OopEncapsulationUsingPropertiesGetSet.genruntimeconfig.cache
